@@ -29,12 +29,12 @@ Chương trình dùng `aiocoap` và thư viện chuẩn Python. Phiên bản th�
 
 ## c. Cài đặt môi trường
 
-Mở terminal tại thư mục chứa dự án, sau đó chạy `cd CoAP_Lab`.
+Mở terminal tại thư mục chứa dự án, sau đó chạy `cd TH1_EX3`.
 
 Windows PowerShell:
 
 ```powershell
-cd CoAP_Lab
+cd TH1_EX3
 py -3 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
@@ -43,7 +43,7 @@ python -m pip install -r requirements.txt
 Linux hoặc macOS:
 
 ```sh
-cd CoAP_Lab
+cd TH1_EX3
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
@@ -51,7 +51,7 @@ python -m pip install -r requirements.txt
 
 ## d. Cách chạy
 
-Mở terminal trong thư mục `CoAP_Lab`. Luôn chạy server trước. Các chương trình nhận tham số `--host`; mặc định là `127.0.0.1`.
+Mở terminal trong thư mục `TH1_EX3`. Luôn chạy server trước. Các chương trình nhận tham số `--host`; mặc định là `127.0.0.1`.
 
 ### Bài 1
 
