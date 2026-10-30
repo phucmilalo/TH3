@@ -1,0 +1,11 @@
+Registering CoAP Observe...
+Observe registration successful
+[00:52:06] Initial State
+Device: light01
+Status: OFF
+[00:52:09] State Updated
+Device: light01
+Status: ON
+[00:52:09] State Updated
+Device: light01
+Status: OFF

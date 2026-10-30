@@ -1,0 +1,17 @@
+Commands supplied to controller stdin: ON, ON, STATUS, OFF, BOGUS, EXIT
+
+Controller output:
+Nhap lenh (ON/OFF/STATUS/EXIT): Sending PUT request...
+Response Code: 2.04 Changed
+Da bat den light01
+Nhap lenh (ON/OFF/STATUS/EXIT): Sending PUT request...
+Response Code: 2.04 Changed
+Da bat den light01
+Nhap lenh (ON/OFF/STATUS/EXIT): Sending GET request...
+Response:
+{"device_id": "light01", "status": "ON"}
+Nhap lenh (ON/OFF/STATUS/EXIT): Sending PUT request...
+Response Code: 2.04 Changed
+Da tat den light01
+Nhap lenh (ON/OFF/STATUS/EXIT): Lenh khong hop le. Hay nhap ON, OFF, STATUS hoac EXIT.
+Nhap lenh (ON/OFF/STATUS/EXIT): 

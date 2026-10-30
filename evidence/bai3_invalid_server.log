@@ -1,0 +1,7 @@
+CoAP Smart Light Server started...
+Resource: /iot/lab/light01/status
+PUT request received:
+PUT request received:
+PUT request received:
+Device: light01
+Command: BOGUS

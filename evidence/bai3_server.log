@@ -1,0 +1,17 @@
+CoAP Smart Light Server started...
+Resource: /iot/lab/light01/status
+New Observe registration received
+New Observe registration received
+PUT request received:
+Device: light01
+Command: ON
+Light state changed: OFF -> ON
+Notify observers: ON
+PUT request received:
+Device: light01
+Command: ON
+PUT request received:
+Device: light01
+Command: OFF
+Light state changed: ON -> OFF
+Notify observers: OFF
